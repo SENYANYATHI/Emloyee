@@ -1,0 +1,39 @@
+
+*{
+    border-style: none;
+  
+    
+}
+input {
+    width: 400px;
+    height: 30px;
+    background-color:white;
+    border:12px;
+    padding-left: 15px;
+    margin-left: 15px;
+}
+
+#btn {
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 20px;
+    width: 200px;
+    background-color: green;
+    border-style: hidden;
+    border-radius: 12px;
+  
+   
+}
+
+
+.new-employee {
+    color: black;
+    text-align: left;
+    border-radius: 20px;
+    font-size: large;
+    font-weight: 35px;
+    background-color: aliceblue;
+    text-transform: uppercase;
+  
+    
+}
